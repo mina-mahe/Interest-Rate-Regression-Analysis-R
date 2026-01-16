@@ -1,5 +1,8 @@
 # Predicting Loan Interest Rates - Multi-Model R Analysis
 
+## Problem Statement
+Lending institutions face significant financial risk and operational inefficiency when manually determining interest rates for loan applicants. The goal of this project is to develop a robust predictive model using R to automate the estimation of interest rates based on borrower profiles. By analyzing variables such as FICO scores, debt-to-income (DTI) ratios, and loan characteristics, this project aims to provide a data-driven approach to risk-based pricing, ensuring competitive rates for borrowers while protecting the lender’s margins.
+
 ## Project Overview
 This project focuses on building a predictive framework to automate **interest rate determination** for loan applicants. Using **R**, I performed end-to-end data science tasks including sophisticated **feature engineering**, statistical validation of linear assumptions, and a performance comparison between **Linear Regression**, **Decision Trees**, and **Random Forests**.
 
